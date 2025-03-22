@@ -1,4 +1,8 @@
 user:user
 pass:password
 
-test
+phpMyAdmin:
+http://localhost:8180
+
+WordPress:
+http://localhost:8080
